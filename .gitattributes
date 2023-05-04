@@ -1,3 +1,2 @@
-# Mengatur file Dart dengan jenis MIME "application/dart"
-*.dart linguist-language=Dart
-*.dart text
+* linguist-generated=true
+!*.dart
