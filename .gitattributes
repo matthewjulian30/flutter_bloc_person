@@ -1,2 +1,1 @@
-* linguist-generated=true
-!*.dart
+*.dart linguist-language=Dart
